@@ -1,5 +1,5 @@
 /* eslint-disable linebreak-style */
 // eslint-disable-next-line linebreak-style
-const notes = [];
+const books = [];
 
-module.exports = notes;
+module.exports = books;
